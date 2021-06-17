@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "franneck94.c-cpp-runner",
+        "adobe.extendscript-debug",
+        "ms-azuretools.vscode-docker",
+        "ms-dotnettools.csharp"
+    ]
+}
